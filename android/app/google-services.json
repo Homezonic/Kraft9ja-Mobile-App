@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669511601204",
+    "project_id": "krafts9ja",
+    "storage_bucket": "krafts9ja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669511601204:android:0aa9a0a8dff6d586114e61",
+        "android_client_info": {
+          "package_name": "com.tkraft9ja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnOzXOAq5Bv3Q_oTLvaZJ80u19KpZaOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
